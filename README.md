@@ -15,3 +15,5 @@ npm run dev
 
 ## Live Demo
 https://glowing-mousse-e7b14d.netlify.app/
+
+https://assignment-2-ten-rho.vercel.app/
